@@ -21,3 +21,4 @@ Create "flan.html"
 Add "flan.html" to image folder in "recipes" folder
 Add content to "flan.html"
 Add link to "flan.html" to "index.html"
+Change title of Pozole.html to match Name in index.html
