@@ -1,11 +1,5 @@
 # odin-recipes
 
-Create new odin-recipes basic recipe website
-html build up and basic css will be build
-Create Recipes folder
-Create index.html
-Add boileplate to index html
-Add Title Odin Recipes to page
 Create new "lasagna.html" page
 Link index.html to lasagna.html
 Add content conten to lasagna.html page, such as images, descriptions, and paragraphs, ingredients lists and steps
