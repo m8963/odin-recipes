@@ -1,0 +1,14 @@
+#title {
+    color: rgb(204, 4, 144);
+    font-size: 24px;
+    text-align: center;
+}
+
+.container {
+    background-color: rgb(248, 233, 244);
+    color: rgb(73, 73, 73);
+    font-size: 18px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
